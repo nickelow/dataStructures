@@ -1,5 +1,5 @@
 var Queue = function(){
-	this.storage = new LinkedList()
+  this.storage = new LinkedList()
   this.size = 0;
 }
 
